@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringAIWorkshop
+  ai:
+    openai:
+      api-key: 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
